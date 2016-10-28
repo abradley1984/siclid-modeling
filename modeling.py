@@ -1,6 +1,6 @@
 #author: Allison Bradley
 #date: September 10, 2016
-#siclid momdeling code
+#Runs predictive models of various types with sets of parameters listed below. 
 
 
 from __future__ import division
